@@ -1,50 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=200&section=header&text=Sudo-Kernel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=not%20just%20an%20engineer.%20a%20fun%20engineer.&descAlignY=58" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=ESP32+%26+C+on+the+hardware+side;Python+%2B+Discord+bots;Game+dev+on+Flax+Engine;Making+slow+things+run+fast" />
-
-<img src="https://komarev.com/ghpvc/?username=Sudo-Kernel&color=00ff9c&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=200&section=header&text=Sudo-Kernel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=a%20fun%20engineer&descAlignY=58" />
 
 </div>
 
-## 👾 About me
+Hey, I'm Yashas. I'm a CS student at JSS Academy of Technical Education in Karnataka.
 
-```bash
-$ whoami
-Sudo-Kernel  # Yashas B K
+I like building whole projects instead of just one piece of them: the hardware, the server behind it, and the web page on top. My favorite part is performance tuning, getting something heavy to run on a machine that probably shouldn't be able to handle it. My own laptop is pretty basic, so I get a lot of practice.
 
-$ cat about.txt
-CSE student @ JSS Academy of Technical Education
-embedded hardware + backend + web, end to end
-obsessed with squeezing performance out of constrained hardware
+I mostly write C and Python. Lately I've been learning AI/ML and game dev, so my hardware projects can react to things instead of just sitting there.
 
-$ echo $CURRENT_FOCUS
-AI/ML and game dev, so my hardware projects get smarter and more interactive
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=c,py,cs,arduino,discord,linux,git" />
+</p>
 
-## 🚀 Projects
+## Stuff I've made
 
-| Project | What it is |
-|---|---|
-| 🎮 **The RAM Crisis** | A small 3D game joking about RAM prices in the AI hype era. Built in Flax Engine with C# scripting, 3D level setup and rigid bodies. Paused when college started. |
-| 🔌 **ESP32 chaos rig** | An ESP32 build that physically demonstrates chaos theory and the butterfly effect. |
-| 🌐 **Network testing tools** | Custom tools I wrote to test networks. |
-| 🤖 **Discord bots** | Python bots built on the Discord API. |
-| 🧹 **System debloating** | Stripping systems down so they run lean on weak hardware. |
+**The RAM Crisis**
+A small 3D game that's basically a joke about RAM prices during the AI boom. Unity and Unreal froze my laptop, so I found Flax Engine, which is open source and runs fine on weak hardware. I learned C# scripting, level setup and rigid bodies while making it. It's on pause since college started, but I want to come back to it.
 
-## 🛠️ Tech stack
+**ESP32 rig**
+An ESP32 setup that physically demonstrates chaos theory and the butterfly effect.
 
-<img src="https://skillicons.dev/icons?i=c,py,cs,discord,arduino,linux,git,github,vscode" />
+**Network testing tools**
+Custom tools I wrote to test networks.
 
-## 📊 GitHub stats
+**Discord bots**
+Python bots using the Discord API.
 
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudo-Kernel&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=Sudo-Kernel&theme=tokyonight&hide_border=true" />
-</div>
+**Debloating**
+Stripping systems down so they run lean on low-end hardware.
 
-## 📫 Find me
+I'm slowly moving all of this onto GitHub, so this page is pretty empty for now.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sudo--Kernel-181717?style=for-the-badge&logo=github)](https://github.com/Sudo-Kernel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashas%20B%20K-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yashas-b-k-hello-world)
+## Reach me
+
+[LinkedIn](https://www.linkedin.com/in/yashas-b-k-hello-world)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=100&section=footer" width="100%" />

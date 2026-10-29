@@ -1,40 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=200&section=header&text=Sudo-Kernel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=a%20fun%20engineer&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=220&section=header&text=Sudo-Kernel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Hardware%20%7C%20Systems%20%7C%20AI%20%7C%20Game%20Development&descAlignY=62&descSize=18" width="100%" />
+
+# Hey, I'm Yashas 👋
+
+### Computer Science Student • Builder • Systems Enthusiast
+
+I enjoy building complete projects—from hardware and embedded systems to servers, tools, games, and web interfaces.
+
+My main interests are performance optimization, low-level programming, networking, AI/ML, and making software run well on low-end hardware.
+
+<p>
+  <a href="https://github.com/Sudo-Kernel">
+    <img src="https://img.shields.io/badge/GitHub-Sudo--Kernel-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashas-b-k-hello-world">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 </div>
 
-Hey, I'm Yashas. I'm a CS student at JSS Academy of Technical Education in Karnataka.
+---
 
-I like building whole projects instead of just one piece of them: the hardware, the server behind it, and the web page on top. My favorite part is performance tuning, getting something heavy to run on a machine that probably shouldn't be able to handle it. My own laptop is pretty basic, so I get a lot of practice.
+## 🧑‍💻 About Me
 
-I mostly write C and Python. Lately I've been learning AI/ML and game dev, so my hardware projects can react to things instead of just sitting there.
+- 🎓 Computer Science student at JSS Academy of Technical Education, Karnataka
+- 🔧 Interested in hardware, embedded systems, and low-level programming
+- ⚡ Enjoy optimizing software for performance and resource usage
+- 🤖 Currently exploring AI/ML and game development
+- 🐧 Comfortable working with Linux and developer tooling
+- 🛠️ I like building complete projects instead of only one part of a system
+
+---
+
+## 🧰 Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,py,cs,arduino,discord,linux,git" />
+  <img src="https://skillicons.dev/icons?i=c,py,cs,arduino,linux,git,github,discord,unity" />
 </p>
 
-## Stuff I've made
+---
 
-**The RAM Crisis**
-A small 3D game that's basically a joke about RAM prices during the AI boom. Unity and Unreal froze my laptop, so I found Flax Engine, which is open source and runs fine on weak hardware. I learned C# scripting, level setup and rigid bodies while making it. It's on pause since college started, but I want to come back to it.
+## 🚀 Projects & Experiments
 
-**ESP32 rig**
-An ESP32 setup that physically demonstrates chaos theory and the butterfly effect.
+### 🎮 The RAM Crisis
 
-**Network testing tools**
-Custom tools I wrote to test networks.
+A small 3D game inspired by the rising demand for RAM during the AI boom.
 
-**Discord bots**
-Python bots using the Discord API.
+Built with the Flax Engine after exploring alternatives that could run effectively on low-end hardware.
 
-**Debloating**
-Stripping systems down so they run lean on low-end hardware.
+### 🔌 ESP32 Chaos Theory Demonstration
 
-I'm slowly moving all of this onto GitHub, so this page is pretty empty for now.
+An ESP32-based hardware project that physically demonstrates chaos theory and the butterfly effect.
 
-## Reach me
+### 🌐 Network Testing Tools
 
-[LinkedIn](https://www.linkedin.com/in/yashas-b-k-hello-world)
+Custom tools for testing and experimenting with computer networks.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=100&section=footer" width="100%" />
+### 🤖 Discord Bots
+
+Python-based Discord bots using the Discord API.
+
+### 🧹 System Debloating
+
+Experiments focused on stripping unnecessary components from systems to improve performance on low-end hardware.
+
+> More projects will be added as I continue moving my work to GitHub.
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial intelligence and machine learning
+- Game development
+- Embedded systems
+- Network programming
+- Performance optimization
+- Linux internals and system tooling
+
+---
+
+## 📊 My Development Focus
+
+```text
+Low-level programming       ███████████████░░░░░ 75%
+Hardware & embedded systems █████████████░░░░░░░ 65%
+Python development          ███████████████░░░░░ 75%
+Networking                  ████████████░░░░░░░░ 60%
+AI/ML                       ████████░░░░░░░░░░░░ 40%
+Game development            ████████░░░░░░░░░░░░ 40%
+```
+
+---
+
+## 📫 Contact
+
+- GitHub: [@Sudo-Kernel](https://github.com/Sudo-Kernel)
+- LinkedIn: [Yashas B K](https://www.linkedin.com/in/yashas-b-k-hello-world)
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=120&section=footer" width="100%" />
+
+</div>
